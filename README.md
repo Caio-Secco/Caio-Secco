@@ -18,7 +18,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" style="filter: invert(51%) sepia(72%) saturate(495%) hue-rotate(90deg) brightness(92%) contrast(91%);">
+  <img align="center" alt="Cypress" height="30" width="40" src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white">
 </div>
 
 ---
