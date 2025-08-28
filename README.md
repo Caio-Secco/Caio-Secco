@@ -11,15 +11,35 @@
 
 ### 🚀 Tecnologias que estudo e utilizo:
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block; text-align: center;">
+
+  <!-- Linguagens de Programação -->
+  <p><strong>Linguagens</strong></p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <br><br>
+
+  <!-- Frameworks / Bibliotecas -->
+  <p><strong>Frameworks / Bibliotecas</strong></p>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" style="filter: invert(100%)">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg">
+
+  <br><br>
+
+  <!-- Banco de Dados -->
+  <p><strong>Banco de Dados</strong></p>
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
 </div>
+
+</div>
+
+
 
 
 ---
