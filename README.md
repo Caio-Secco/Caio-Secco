@@ -35,6 +35,15 @@
   <p><strong>Banco de Dados</strong></p>
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
+  <br><br>
+
+<!-- Ferramentas / IDEs / Versionamento -->
+<p><strong>Ferramentas / IDEs / Versionamento</strong></p>
+<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+
+
 </div>
 
 </div>
