@@ -23,11 +23,12 @@
   <br><br>
 
   <!-- Frameworks / Bibliotecas -->
-  <p><strong>Frameworks / Bibliotecas</strong></p>
+ <p><strong>Frameworks / Bibliotecas</strong></p>
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" style="filter: invert(100%)">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg">
+  <img align="center" alt="Robot Framework" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/robotframework.svg" style="filter: invert(100%)">
 
   <br><br>
 
