@@ -2,61 +2,53 @@
 
 <div align="center">
   <a href="https://github.com/Caio-Secco">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-Secco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Secco&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400"/>
+    <img
+      height="180em"
+      src="https://github-readme-stats-phi.vercel.app/api?username=Caio-Secco&show_icons=true&theme=tokyonight"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Caio-Secco&layout=compact&langs_count=6&theme=tokyonight"
+    />
   </a>
 </div>
 
----
-
-### 🚀 Tecnologias que estudo e utilizo:
-
-<div style="display: inline-block; text-align: center;">
-
-  <!-- Linguagens de Programação -->
-  <p><strong>Linguagens</strong></p>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <br><br>
-
-  <!-- Frameworks / Bibliotecas -->
- <p><strong>Frameworks / Bibliotecas</strong></p>
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" style="filter: invert(100%)">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Mocha" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg">
-  <img align="center" alt="Robot Framework" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/robotframework.svg" style="filter: invert(100%)">
-
-  <br><br>
-
-  <!-- Banco de Dados -->
-  <p><strong>Banco de Dados</strong></p>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-  <br><br>
-
-<!-- Ferramentas / IDEs / Versionamento -->
-<p><strong>Ferramentas / IDEs / Versionamento</strong></p>
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-
-
-</div>
-
-</div>
-
-
-
 
 ---
 
-### 📌 Mais sobre mim:
+### 🚀 Tecnologias que estudo e utilizo
 
-<div> 
-  <a href="https://instagram.com/caioseccoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/caio-secco-cardoso-bb2879238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="center">
+
+#### 🧠 Linguagens
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+
+<br><br>
+
+#### 🧩 Frameworks & Bibliotecas
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/robotframework.svg" height="40" />
+
+<br><br>
+
+#### 🗄️ Bancos de Dados
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="40" />
+
+<br><br>
+
+#### 🛠️ Ferramentas & Versionamento
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" height="40" />
+
 </div>
+
+---
