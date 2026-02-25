@@ -4,11 +4,11 @@
   <a href="https://github.com/Caio-Secco">
     <img
       height="180em"
-      src="https://github-readme-stats-phi.vercel.app/api?username=Caio-Secco&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats-phi.vercel.app/api?username=Caio-Secco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     />
     <img
       height="180em"
-      src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Caio-Secco&layout=compact&langs_count=6&theme=tokyonight"
+      src="https://github-readme-stats-phi.vercel.app/api/top-langs/?username=Caio-Secco&layout=compact&langs_count=10&theme=tokyonight&include_all_commits=true&count_private=true"
     />
   </a>
 </div>
